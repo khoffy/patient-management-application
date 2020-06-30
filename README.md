@@ -1,5 +1,5 @@
 # patient-management-application
-An application to manage a hospital's patients
+An application to manage a hospital's patients through an API Restful 
 
 #Dependencies
 Spring Data
